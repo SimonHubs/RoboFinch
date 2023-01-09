@@ -7,6 +7,8 @@ The folder Movement Files contains movement and sound files (and schedules) for 
 The folder RoboFinch Programs contains all LabVIEW programs to run and controll the RoboFinch. The main program is called 190717-FileSheduledROBOTPres-Ardu-TREATchoice_Prince_ArduinoWait.vi
   the subVis folder contains additional LabVIEW programs on which the main program depends.
   
+The file robobird_audioESP32.ino contains the script for the Arduino.
+
 All information necessary to assemble the RoboFinch is given in the Robofinch_assemblage_manual, provided in dutch and english.
 
 The zip folder robofinch_assembly_20190417.stp.zip contains the CAD files necessary to 3D print the RoboFinch parts and also to build the stand for the Robot
